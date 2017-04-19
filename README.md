@@ -1,4 +1,5 @@
 Pixi.js — A 2D JavaScript Renderer
+Pixi.js - 一个2D Javascript 渲染器
 =============
 
 ![pixi.js logo](http://www.goodboydigital.com/pixijs/pixiV4_wide_full.jpg)
@@ -13,6 +14,8 @@ The aim of this project is to provide a fast lightweight 2D library that works
 across all devices. The Pixi renderer allows everyone to enjoy the power of
 hardware acceleration without prior knowledge of WebGL. Also, it's fast. Really fast.
 
+
+
 If you want to keep up to date with the latest pixi.js news then feel free to follow us on twitter
 ([@doormat23](https://twitter.com/doormat23), [@rolnaaba](https://twitter.com/rolnaaba), [@bigtimebuddy](https://twitter.com/bigtimebuddy), [@ivanpopelyshev](https://twitter.com/ivanpopelyshev))
 and we will keep you posted! You can also check back on [our site](http://www.goodboydigital.com/blog)
@@ -25,6 +28,9 @@ as any breakthroughs will be posted up there too!
 Pixi.js is a rendering library that will allow you to create rich, interactive graphics, cross platform applications, and games without having to dive into the WebGL API or deal with browser and device compatibility.
 
 Pixi.js has full [WebGL](https://en.wikipedia.org/wiki/WebGL) support and seamlessly falls back to HTML5's [canvas](https://en.wikipedia.org/wiki/Canvas_element) if needed. As a framework, Pixi.js is a fantastic tool for authoring interactive content, *especially with the move away from Adobe Flash in recent years*. Use it for your graphics rich, interactive websites, applications, and HTML5 games.  Out of the box cross-platform compatibility and graceful degradation mean you have less work to do and have more fun doing it! If you want to create polished and refined experiences relatively quickly, without delving into dense, low level code, all while avoiding the headaches of browser inconsistencies, then sprinkle your next project with some Pixi.js magic!
+
+Pixi.js 已经完全支持WebGL，且在必要时可无缝回退到Canvas。作为一个框架，Pixi.js对多交互内容的开发者是一个极好的工具，尤其是最近几年放弃使用Flash的人。
+可以用它做图像，多交互网站，应用，H5游戏。
 
 **Boost your development and feel free to use your imagination!**
 
